@@ -2,12 +2,8 @@
 #### Seja bem vindo ao meu espaço de desenvolvimento, espero que goste dos meus projetos, segue um pouco sobre meu perfil profisional:
 
 #### ⚡ Desenvolvedor Java com 3+ anos de experiência, trabalhando em Backend e Frontend. Possuo grande domínio da linguagem e de seus principais frameworks.
-#### ⚡ Sou proativo, comunicativo e empenhado em trazer soluções.
-#### ⚡ Inspirado a trabalhar em equipe e a encorajar a comunicação, criatividade e produtividade, visando um ambiente harmonioso.
-#### ⚡ Aprendo rápido e busco apresentar excelência e qualidade em meu trabalho.
-#### ⚡ Experiência com SCRUM e metodologias ágeis.
-#### ⚡ Experiência com Git, Jenkins e Maven.
-#### ⚡ Experiência como Líder Técnico e com Code Review. 
+#### 🔭 Atualmente trabalhando em um projeto Java com Spring Boot 2 utilizando microservices e JWT Authentication, montando toda a parte arquitetural.
+#### 📫 Para entrar em contato comigo: mathmferreira@hotmail.com
 
 <!--
 **mathmferreira/mathmferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
