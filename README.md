@@ -3,7 +3,7 @@
 
 ##### ⚡ Desenvolvedor Java com 3+ anos de experiência, trabalhando em Backend e Frontend. Possuo grande domínio da linguagem e de seus principais frameworks.
 ##### 🔭 Atualmente trabalhando em um projeto Java com Spring Boot 2 utilizando microservices e JWT Authentication, montando toda a parte arquitetural.
-##### 📫 Para entrar em contato comigo: mathmferreira@hotmail.com
+##### 📫 Para entrar em contato comigo: mathmferreira@hotmail.com ou mathmferreira@gmail.com
 
 <!--
 **mathmferreira/mathmferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
