@@ -3,7 +3,7 @@
 
 ##### ⚡ Desenvolvedor Java com 5+ anos de experiência, com foco voltado para o Backend. Possuo grande domínio da linguagem e de seus principais frameworks.
 ##### 💬 Experiência sólida com Spring Boot 2+ e microservices.
-##### 🔭 Atualmente trabalhando em uma migração com Java 17 e Spring Boot 3 utilizando microservices e JWT Authentication, montando toda a parte arquitetural.
+##### 🔭 Atualmente trabalhando em um projeto pessoal com Java 17 e Spring Boot 3 utilizando microservices e JWT Authentication, montando toda a parte arquitetural.
 ##### 📫 Para entrar em contato comigo: mathmferreira@hotmail.com ou mathmferreira@gmail.com
 
 <!--
