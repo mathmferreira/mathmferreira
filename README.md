@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Sawabona!👋</h1> 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Welcome!👋</h1> 
 
 <p>Welcome to my profile! </br> I'm Matheus Maia, a Senior Software Enginner with expertise in Java from <img src="./brazil.png" width="13"/> <b>Brazil</b>.</p>
 <p>I hope you enjoy my projects, here you will find a little of my development skills and a demonstration of how I use them in the real world.</p>
